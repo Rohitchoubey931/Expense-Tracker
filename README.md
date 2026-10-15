@@ -74,7 +74,7 @@ Rohit Choubey
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
-# 💰 Monthly Expense Tracker (Python CLI)
+# 💰 Monthly Expense Tracker (Python using Functions)
 
 A simple command-line application built in Python to record daily expenses month-wise and category-wise, and to view a clear summary of total spending at the end.
 
